@@ -1,4 +1,4 @@
-﻿namespace GUI {
+﻿namespace testGUI {
     partial class Form1 {
         /// <summary>
         /// 必要なデザイナー変数です。

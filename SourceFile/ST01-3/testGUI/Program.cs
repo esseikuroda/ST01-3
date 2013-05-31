@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace GUI {
+namespace testGUI {
     static class Program {
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
