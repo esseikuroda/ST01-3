@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST01-3", "ST01-3\ST01-3.csproj", "{FF40B4A5-B9DE-46C6-A6CB-0F9818A0F8BB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{339BA170-6CDC-426F-A99B-1FC18F8F8433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testGUI", "testGUI\testGUI.csproj", "{7E27C4C5-C134-435A-BFA1-775708489D99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF40B4A5-B9DE-46C6-A6CB-0F9818A0F8BB}.Debug|x86.ActiveCfg = Debug|x86
-		{FF40B4A5-B9DE-46C6-A6CB-0F9818A0F8BB}.Debug|x86.Build.0 = Debug|x86
-		{FF40B4A5-B9DE-46C6-A6CB-0F9818A0F8BB}.Release|x86.ActiveCfg = Release|x86
-		{FF40B4A5-B9DE-46C6-A6CB-0F9818A0F8BB}.Release|x86.Build.0 = Release|x86
-		{339BA170-6CDC-426F-A99B-1FC18F8F8433}.Debug|x86.ActiveCfg = Debug|x86
-		{339BA170-6CDC-426F-A99B-1FC18F8F8433}.Debug|x86.Build.0 = Debug|x86
-		{339BA170-6CDC-426F-A99B-1FC18F8F8433}.Release|x86.ActiveCfg = Release|x86
-		{339BA170-6CDC-426F-A99B-1FC18F8F8433}.Release|x86.Build.0 = Release|x86
+		{7E27C4C5-C134-435A-BFA1-775708489D99}.Debug|x86.ActiveCfg = Debug|x86
+		{7E27C4C5-C134-435A-BFA1-775708489D99}.Debug|x86.Build.0 = Debug|x86
+		{7E27C4C5-C134-435A-BFA1-775708489D99}.Release|x86.ActiveCfg = Release|x86
+		{7E27C4C5-C134-435A-BFA1-775708489D99}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
